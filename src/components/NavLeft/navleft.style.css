@@ -1,0 +1,20 @@
+.nav-left {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-icons {
+    margin: 10px;
+}
+
+.icons-nav {
+    width: 30px;
+    height: 30px;
+    fill: #A2A2C6;
+}
+
+.active {
+    fill: #FFFFFF
+}

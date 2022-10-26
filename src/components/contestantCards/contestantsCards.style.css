@@ -1,0 +1,26 @@
+.image-profile {
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    border: 3 solid #ddd;
+}
+
+.contestant-container {
+  color: #FFFFFF;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.contestant-card{
+    width: 150px;
+    flex: 1 0 21%;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 16px;
+    box-shadow: 0px 4px 30px rgba(0 ,0, 0, 0.3);
+    border-radius: 10px;
+    padding: 10px;
+}
